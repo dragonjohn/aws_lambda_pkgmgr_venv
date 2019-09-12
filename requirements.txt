@@ -1,0 +1,13 @@
+protobuf==3.9.1
+six==1.12.0
+elasticsearch==7.0.4
+requests_aws4auth==0.9
+boto3==1.9.220
+s3transfer==0.2.1
+requests==2.22.0
+jmespath==0.9.4
+idna==2.8
+jmespath==0.9.4
+certifi==2019.6.16
+docutils==0.15.2
+chardet==3.0.4
