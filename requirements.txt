@@ -8,6 +8,6 @@ requests==2.22.0
 jmespath==0.9.4
 idna==2.8
 jmespath==0.9.4
-certifi==2019.6.16
+certifi==2022.12.7
 docutils==0.15.2
 chardet==3.0.4
